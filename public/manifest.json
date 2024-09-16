@@ -1,0 +1,25 @@
+{
+  "short_name": "Doctor App",
+  "name": "Register your self as Doctor",
+  "icons": [
+    {
+      "src": "https://static.vecteezy.com/system/resources/previews/028/251/981/original/doctor-3d-icon-illustration-free-png.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://static.vecteezy.com/system/resources/previews/028/251/981/original/doctor-3d-icon-illustration-free-png.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.vecteezy.com/system/resources/previews/028/251/981/original/doctor-3d-icon-illustration-free-png.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
