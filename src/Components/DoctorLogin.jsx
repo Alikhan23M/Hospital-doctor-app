@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function DoctorLogin(props) {
   const [credentials, setCredentials] = useState({ email: "", password: "" });
 
