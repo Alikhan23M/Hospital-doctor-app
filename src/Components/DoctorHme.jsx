@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function DoctorHome(props) {
     const [appointments, setAppointments] = useState([]);
     const [doctor, setDoctor] = useState([]);
